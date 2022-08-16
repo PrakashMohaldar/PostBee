@@ -4,6 +4,8 @@
  User authentication and authorization are managed using json web tokens
  
  
-![] preview_images/1.jpeg
+![](preview_images/1.jpeg)
 
-![] preview_images/2.jpeg
+
+
+![](preview_images/2.jpeg)
